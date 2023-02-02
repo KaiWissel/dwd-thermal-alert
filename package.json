@@ -1,0 +1,13 @@
+{
+  "name": "dwd-thermal-alert",
+  "version": "1.0.0",
+  "description": "A JavaScript tool to parse data from a table on a web page",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.0",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}
